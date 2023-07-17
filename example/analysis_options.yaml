@@ -1,0 +1,8 @@
+custom_lint:
+  rules:
+    - lines_longer_than:
+      chars_limit: 112
+
+analyzer:
+  plugins:
+    - custom_lint
