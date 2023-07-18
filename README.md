@@ -35,7 +35,9 @@ dev_dependencies:
 ## Example
 
 <div align="center">
-<img width="300" src="./readme_assets/line_longer_than_112.png" alt="screenshot of our line_longer_than custom lint in the IDE">
+<img width="600" 
+src="./readme_assets/line_longer_than_112.png" 
+alt="screenshot of our line_longer_than custom lint in the IDE">
 </div>
 
 ## Additional information
@@ -43,7 +45,7 @@ dev_dependencies:
 The package base on [custom_lint](https://pub.dev/packages/custom_lint).
 
 
-Unfortunately, running dart analyze does not support newly defined lints. We need a separate command for this ```dart run custom_lint>```
+Unfortunately, running dart analyze does not support newly defined lints. We need a separate command for this ```dart run custom_lint```
 
 
 
