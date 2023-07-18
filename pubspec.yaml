@@ -1,6 +1,8 @@
 name: lines_longer_than
 description: the package provides a configurable lint similar to line_longer_than_80_chars.
 version: 1.0.0
+homepage: "none"
+repository: "none"
 
 environment:
   sdk: ">=3.0.5 <4.0.0"

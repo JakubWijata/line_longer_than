@@ -21,14 +21,8 @@ analyzer:
 #### pubspec.yaml
 
 ```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  custom_lint: ^0.5.0
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   lines_longer_than: ^1.0.0
 
 ```
@@ -36,7 +30,7 @@ dev_dependencies:
 
 <div align="center">
 <img 
-src="./readme_assets/line_longer_than_112.png" 
+src="https://github.com/JakubWijata/line_longer_than/blob/main/readme_assets/line_longer_than_112.png" 
 alt="screenshot of our line_longer_than custom lint in the IDE">
 </div>
 
