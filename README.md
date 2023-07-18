@@ -35,7 +35,7 @@ dev_dependencies:
 ## Example
 
 <div align="center">
-<img width="600" 
+<img 
 src="./readme_assets/line_longer_than_112.png" 
 alt="screenshot of our line_longer_than custom lint in the IDE">
 </div>
