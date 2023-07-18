@@ -1,6 +1,6 @@
 name: lines_longer_than
 description: the package provides a configurable lint similar to line_longer_than_80_chars.
-version: 1.0.0
+version: 1.0.2
 repository: https://github.com/JakubWijata/line_longer_than
 issue_tracker: https://github.com/JakubWijata/line_longer_than/issues
 
