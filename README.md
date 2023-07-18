@@ -21,21 +21,17 @@ analyzer:
 #### pubspec.yaml
 
 ```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  custom_lint: ^0.5.0
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   lines_longer_than: ^1.0.0
 
 ```
 ## Example
 
 <div align="center">
-<img width="300" src="./readme_assets/line_longer_than_112.png" alt="screenshot of our line_longer_than custom lint in the IDE">
+<img 
+src="https://github.com/JakubWijata/line_longer_than/blob/main/readme_assets/line_longer_than_112.png" 
+alt="screenshot of our line_longer_than custom lint in the IDE">
 </div>
 
 ## Additional information
@@ -43,7 +39,7 @@ dev_dependencies:
 The package base on [custom_lint](https://pub.dev/packages/custom_lint).
 
 
-Unfortunately, running dart analyze does not support newly defined lints. We need a separate command for this ```dart run custom_lint>```
+Unfortunately, running dart analyze does not support newly defined lints. We need a separate command for this ```dart run custom_lint```
 
 
 
